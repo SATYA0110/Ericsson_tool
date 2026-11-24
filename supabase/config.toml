@@ -1,0 +1,4 @@
+project_id = "bbu-report-tool"
+
+[functions.bbu-collector]
+verify_jwt = false
